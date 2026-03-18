@@ -1,0 +1,39 @@
+{
+  "version": 5,
+  "exportDate": "18.03.2026 20:09:48",
+  "shopName": "Marka Saatçilik",
+  "count": 1,
+  "records": [
+    {
+      "id": 1,
+      "makbuz": "SRV-0001-26",
+      "tarih": "18.03.2026",
+      "musteri": "Elgun AMİRLİ",
+      "telefon": "0507 807 22 75",
+      "tel2": "",
+      "email": "",
+      "adres": "",
+      "marka": "Citizen",
+      "model": "",
+      "seri": "",
+      "tip": "Mekanik — Otomatik",
+      "renk": "",
+      "aksesuar": "",
+      "deger": "",
+      "ariza": "Çalışmıyor",
+      "teshis": "Komple Bakım Ve Revizyon Yapılacak",
+      "islem": "",
+      "parca": "",
+      "durum": "Serviste",
+      "usta": "",
+      "iscilik": "2500",
+      "parcaUcret": "",
+      "onFiyat": "2500",
+      "musteriOnay": "Fiyatı Kabul Etti",
+      "odeme": "Ödenmedi",
+      "depozito": "",
+      "teslimTarih": "2026-03-28",
+      "not": ""
+    }
+  ]
+}
